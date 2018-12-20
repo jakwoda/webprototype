@@ -1,0 +1,89 @@
+#banana {
+	color: #FFFF00;
+
+}
+
+#cherry {
+	color: darkred;
+
+}
+
+#peach {
+	color: orange;
+
+}
+
+#login-area {
+
+	padding: 1em;
+	font-size: 1em;
+	box-sizing: border-box;
+	border: none;
+	outline: none;
+	border-bottom: 0.1em solid #FF0000;
+}
+
+#data-area {
+	margin: 1em;
+	padding: 0;
+	font-size: 1em;
+	box-sizing: border-box;
+	outline: 1em;
+	border: 0.05em solid #000000
+}
+
+#button-area {
+
+	padding: 1em;
+	font-size: 1em;
+	box-sizing: border-box;
+	border: none;
+	outline: none;
+	border-bottom: 0.1em solid #00FF00;
+
+}
+
+h1 {
+	padding: 1em;
+	font-size: 1em;
+	box-sizing: border-box;
+	border-bottom: 0.1em solid #FFFF00
+}
+
+button {
+	background-color: #FFFFFF;
+	border-radius: 50%;
+	border: none;
+	color: black;
+	padding: 2em;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1em;
+
+
+}
+
+button:hover {
+
+	border-radius: 50%;
+	border: 0.1em solid #00FF00;
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+	color: black
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+
+}
+
+footer {
+	position: absolute;
+	bottom: -400px;
+	right: 10%
+}
